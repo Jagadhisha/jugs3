@@ -1,3 +1,3 @@
 a = "IBM"
 b =  'Team'
-print(a - b)
+print(a + b)
